@@ -17,7 +17,7 @@ Thank you!
 - Your device must be on firmware 3.69 or 3.70. If you're on a lower firmware, please use [h-encore](<https://github.com/TheOfficialFloW/h-encore>) instead.
 - If your device is a phat OLED model, you need a Memory Card in order to install. There's no need for a Memory Card on Slim/PS TV models, since they already provide an Internal Storage.
 - Your device must be able to access the PlayStation Store.
-- If your device region is mainland China (model PCH-2009), you need another already hacked Vita, a mainland China PSN accout, and a Sony PSVita memory card to run the exploit.
+- If your device region is mainland China (model PCH-2009), you need another already hacked Vita, a mainland China PSN accout, and a Sony PSVita memory card to run the exploit. Translation softwares/websites are also required if you cannot read Chinese.
 
 ## Preparation
 
@@ -105,7 +105,24 @@ If your device model is PCH-2009, skip to `Alternative Steps For PCH-2009` secti
 
 Since model PCH-2009 is region locked to only accept mainland China PSN accounts to login, and there is no any PSP titles in mainland China PSN store, alternative approaches are required to run Trinity on it.
 
-1. 
+This alternative approach works for all Vitas, but using regular installation method is better than this.
+
+1. If your PS Vita memory card has been used on other Vitas, insert it into an already hacked Vita, turn it on, and then enter `Settings-Henkaku Settings-Unlink Memory Card`, then shut it down.
+   -If that Vita use a SD2Vita (a converter for using Micro SD cards on Vita), you need to disable SD2Vita plugin. The easiest way to do this is to hold L trigger while powering on the Vita. You can judge whether it's using a SD2Vita by looking in the game cartridge slot if you borrow others Vita.
+   -If there is a dialog box saying the card need to be formatted after turning on the Vita, click "cancel".
+   
+2. Insert your PS Vita memory card into PCH-2009, turn the Vita on, Login a mainland China PSN account and activate it.
+   - If you don't have one, register at [here](https://store.playstation.com/zh-hans-cn/). You may need a translation software/website if you cannot read Chinese.
+   
+2. Download any free theme in the PS Store. After the theme is installed, turn the Vita off and move the memory card to that already hacked Vita.
+   - You may need a translation software/website if you cannot read Chinese.
+3. Turn on the already hacked Vita, and click `cancel` if there is a dialog box saying the card need to format.
+   -If that Vita use a SD2Vita (a converter for using Micro SD cards on Vita), you need to disable SD2Vita plugin. The easiest way to do this is to hold L trigger while powering on the Vita. You can judge whether it's using a SD2Vita by looking in the game cartridge slot if you borrow others Vita.
+   ***Backup id.dat here***
+4. If there is another PSN account logged in the hacked Vita, Download SimpleAccountSwitcher from [here]( https://bitbucket.org/SilicaAndPina/simpleaccountswitcher/downloads/SimpleAccountSwitcher-1.2.vpk) and transfer it to Vita.
+   -To transfer VPK files to Vita, you can use Vitashell USB function.
+   -Skip step 4 and 5 if you don't have an account logged in, or you have already logged in the same account as your PCH-2009.
+5. Run SimpleAccountSwitcher to logout the account. This will send you back to the first-time setup guide after your Vita reboot. Login your mainland China PSN account in the setup guide.
 ## FAQ
 
 ### Exploit
