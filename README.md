@@ -22,7 +22,7 @@ Thank you!
 ## Preparation
 
 If you have already done the preparation, you can skip this part and go to the `Installation` section.
-
+If your device model is PCH-2009, skip to `Alternative Steps For PCH-2009` section. 
 1. If you're on firmware 3.69, you have two options:
 
    - Either update to firmware 3.70 (go to Settings → System Update).
@@ -101,6 +101,11 @@ If you have already done the preparation, you can skip this part and go to the `
 
 16. Congratulations, your device is now able to run homebrews. It is highly suggested that you downgrade your device to either firmware 3.60 or 3.65/3.67/3.68 using [modoru](<https://github.com/TheOfficialFloW/modoru>). On 3.60, you can use [HENkaku](<http://henkaku.xyz/>) and on 3.65/3.67/3.68 you can use [h-encore](<https://github.com/TheOfficialFloW/h-encore>). If you don't downgrade your device now, you may lose the ability to launch *Trinity* later and therefore not be able to hack your device anymore.
 
+## Alternative Steps For PCH-2009
+
+Since model PCH-2009 is region locked to only accept mainland China PSN accounts to login, and there is no any PSP titles in mainland China PSN store, alternative approaches are required to run Trinity on it.
+
+1. 
 ## FAQ
 
 ### Exploit
