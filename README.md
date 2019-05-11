@@ -112,16 +112,25 @@ This alternative approach works for all Vitas, but using regular installation me
    -If there is a dialog box saying the card need to be formatted after turning on the Vita, click "cancel".
    
 2. Insert your PS Vita memory card into PCH-2009, turn the Vita on, Login a mainland China PSN account and activate it.
+
    - If you don't have one, register at [here](https://store.playstation.com/zh-hans-cn/). You may need a translation software/website if you cannot read Chinese.
    
 2. Download any free theme in the PS Store. After the theme is installed, turn the Vita off and move the memory card to that already hacked Vita.
+   
    - You may need a translation software/website if you cannot read Chinese.
+   
 3. Turn on the already hacked Vita, and click `cancel` if there is a dialog box saying the card need to format.
+
    -If that Vita use a SD2Vita (a converter for using Micro SD cards on Vita), you need to disable SD2Vita plugin. The easiest way to do this is to hold L trigger while powering on the Vita. You can judge whether it's using a SD2Vita by looking in the game cartridge slot if you borrow others Vita.
+   
    ***Backup id.dat here***
+   
 4. If there is another PSN account logged in the hacked Vita, Download SimpleAccountSwitcher from [here]( https://bitbucket.org/SilicaAndPina/simpleaccountswitcher/downloads/SimpleAccountSwitcher-1.2.vpk) and transfer it to Vita.
+
    -To transfer VPK files to Vita, you can use Vitashell USB function.
+   
    -Skip step 4 and 5 if you don't have an account logged in, or you have already logged in the same account as your PCH-2009.
+   
 5. Run SimpleAccountSwitcher to logout the account. This will send you back to the first-time setup guide after your Vita reboot. Login your mainland China PSN account in the setup guide.
 ## FAQ
 
